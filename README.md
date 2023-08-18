@@ -24,9 +24,10 @@ To complete the project, you may want to use documentation from pandas, matplotl
 1.1. Open the files and look into the data.
 
 Path to files:
-/datasets/gold_recovery_train.csv
-/datasets/gold_recovery_test.csv
-/datasets/gold_recovery_full.csv
+
+-/datasets/gold_recovery_train.csv
+-/datasets/gold_recovery_test.csv
+-/datasets/gold_recovery_full.csv
 
 1.2. Check that recovery is calculated correctly. Using the training set, calculate recovery for the rougher.output.recovery feature. Find the MAE between your calculations and the feature values. Provide findings.
 
