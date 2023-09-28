@@ -1,8 +1,11 @@
 ## Sprint_10_Project
 
 # Gold-Recovery-Prediction
+<img width="613" alt="image" src="https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/ab417d56-7e20-4dcc-bc63-b7f7d8879ad0">
 
-# Task Description
+Stages of gold purification
+
+# Task Description:
 
 Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry.
 
@@ -17,7 +20,7 @@ You need to:
    
 To complete the project, you may want to use documentation from pandas, matplotlib, and sklearn.
 
-# Project Instructions & Questions to Answer
+# Project Instructions & Questions to Answer:
 
 1. Prepare the data
    
@@ -52,11 +55,13 @@ distributions vary significantly, the model evaluation will be incorrect.
 
 Use these formulas for evaluation metrics:
 
+![image](https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/53d418a8-53ec-4952-94a0-545f1eadcb6b)
+
 ![image](https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/bdd4e863-3185-44a5-99ee-8d26bc3b53ca)
 
 ![image](https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/bf53fb6f-67de-4e06-87ce-23cfde0d49cc)
 
-# Project evaluation
+# Project evaluation:
 
 - Have you prepared and analyzed the data properly?
 - What models have you developed?
@@ -65,3 +70,13 @@ Use these formulas for evaluation metrics:
 - Did you keep to the project structure and explain the steps performed?
 - What are your findings?
 - Have you kept the code neat and avoided code duplication?
+
+# Generated Plots: 
+<img width="969" alt="image" src="https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/a2691a0a-39e6-4254-9e14-119f0829f443">
+<img width="986" alt="image" src="https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/9657e5d7-7cad-4e49-9c3b-fe0d69d9c356">
+<img width="893" alt="image" src="https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/3ea78ddf-9f45-4503-a4dd-5b01bfc77e88">
+
+# Result: 
+<img width="912" alt="image" src="https://github.com/nhayenquynh/Gold-Recovery-Prediction/assets/125513684/6bbc9888-dfb3-4ef1-90e7-e80318106fa1">
+
+
